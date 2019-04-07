@@ -24,7 +24,6 @@ import java.util.List;
 import butterknife.BindView;
 import butterknife.ButterKnife;
 
-import static com.haerul.foodsapp.view.home.HomeActivity.EXTRA_DETAIL;
 
 public class DetailActivity extends AppCompatActivity implements DetailView { //TODO #11  implement DetailView
 
