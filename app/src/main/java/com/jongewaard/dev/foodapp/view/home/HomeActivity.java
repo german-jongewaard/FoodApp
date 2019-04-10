@@ -10,6 +10,13 @@ import android.view.View;
 import android.widget.TextView;
 
 import com.jongewaard.dev.foodapp.R;
+import com.jongewaard.dev.foodapp.Utils;
+import com.jongewaard.dev.foodapp.adapter.RecyclerViewHomeAdapter;
+import com.jongewaard.dev.foodapp.adapter.ViewPagerHeaderAdapter;
+import com.jongewaard.dev.foodapp.model.Categories;
+import com.jongewaard.dev.foodapp.model.Meals;
+import com.jongewaard.dev.foodapp.view.category.CategoryActivity;
+import com.jongewaard.dev.foodapp.view.detail.DetailActivity;
 
 import java.io.Serializable;
 import java.util.List;

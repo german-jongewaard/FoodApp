@@ -3,6 +3,9 @@ package com.jongewaard.dev.foodapp;
 import android.app.AlertDialog;
 import android.content.Context;
 
+import com.jongewaard.dev.foodapp.api.FoodApi;
+import com.jongewaard.dev.foodapp.api.FoodClient;
+
 public class Utils {
 
     public static FoodApi getApi() {

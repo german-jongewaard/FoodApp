@@ -9,6 +9,8 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.jongewaard.dev.foodapp.R;
+import com.jongewaard.dev.foodapp.model.Meals;
 import com.squareup.picasso.Picasso;
 
 import java.util.List;

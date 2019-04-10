@@ -6,6 +6,9 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 
+import com.jongewaard.dev.foodapp.model.Categories;
+import com.jongewaard.dev.foodapp.view.category.CategoryFragment;
+
 import java.util.List;
 
 public class ViewPagerCategoryAdapter extends FragmentPagerAdapter {

@@ -2,6 +2,9 @@ package com.jongewaard.dev.foodapp.view.category;
 
 import android.support.annotation.NonNull;
 
+import com.jongewaard.dev.foodapp.Utils;
+import com.jongewaard.dev.foodapp.model.Meals;
+
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;

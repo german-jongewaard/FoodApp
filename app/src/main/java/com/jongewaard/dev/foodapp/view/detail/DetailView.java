@@ -1,5 +1,7 @@
 package com.jongewaard.dev.foodapp.view.detail;
 
+import com.jongewaard.dev.foodapp.model.Meals;
+
 import java.util.List;
 
 public interface DetailView {

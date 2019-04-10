@@ -17,12 +17,17 @@ import android.widget.ImageView;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 
+import com.jongewaard.dev.foodapp.R;
+import com.jongewaard.dev.foodapp.Utils;
+import com.jongewaard.dev.foodapp.model.Meals;
 import com.squareup.picasso.Picasso;
 
 import java.util.List;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
+
+import static com.jongewaard.dev.foodapp.view.home.HomeActivity.EXTRA_DETAIL;
 
 
 public class DetailActivity extends AppCompatActivity implements DetailView { //TODO #11  implement DetailView

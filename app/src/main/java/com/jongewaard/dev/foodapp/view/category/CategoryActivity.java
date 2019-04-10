@@ -9,6 +9,7 @@ import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 
 import com.jongewaard.dev.foodapp.R;
+import com.jongewaard.dev.foodapp.adapter.ViewPagerCategoryAdapter;
 import com.jongewaard.dev.foodapp.model.Categories;
 import com.jongewaard.dev.foodapp.view.home.HomeActivity;
 
